@@ -18,4 +18,3 @@ public class Diploma implements College {
         System.out.println("Diploma: Limited cultural activities compared to degree courses.");
     }
 }
-S
